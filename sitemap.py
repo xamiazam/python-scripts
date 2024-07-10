@@ -44,6 +44,6 @@ def save_links_to_csv(links):
 
 
 # Example usage:
-sitemap_url = 'https://americanhealthcarecapital.com/listing-sitemap.xml'
+sitemap_url = 'https://website-address.com/sitemap.xml'
 sitemap_links = scrape_sitemap_links(sitemap_url)
 save_links_to_csv(sitemap_links)
